@@ -98,3 +98,5 @@ this는 복잡함
 .unshift 추가
 배열 반복문
 for(let index =0; index <day.length; index++)
+
+참조 클론코딩 https://github.com/seondal/Clone-Youtube-Web
