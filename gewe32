@@ -1,0 +1,19 @@
+const name = prompt("Say your name");
+alert `Hello, $[name], Welcome`;
+
+comfirm("capstone disignII Lee Dong Gew");
+
+// age === 19
+
+const age = 19
+if (age > 19) {
+  console.log(Welcome);
+}
+else (age = 19) {
+  console.log(Good luck);
+}
+else (age < 19) {
+console.log(Bye);
+}
+
+console.log(---)
