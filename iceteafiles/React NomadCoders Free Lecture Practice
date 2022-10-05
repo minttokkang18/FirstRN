@@ -18,7 +18,9 @@ vanilla js
     </script>
 </html>
 
-react app dom
+react app dom 
+
+-- Our First React Element -- 리액트 강의 매주차 코드 정리 샘플 파일 
 
 <!DOCTYPE html>
 <html>
@@ -38,7 +40,7 @@ react app dom
     </script>
 </html>
 
--- Our First React Element -- 리액트 강의 매주차 코드 정리 샘플 파일 
+-----리액트 이벤트-----
 
 <!DOCTYPE html>
 <html>
@@ -71,5 +73,3 @@ react app dom
         ReactDOM.render(container, root);
     </script>
 </html>
-
---라액트 이벤트--
